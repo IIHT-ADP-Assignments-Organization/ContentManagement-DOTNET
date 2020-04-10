@@ -1,0 +1,9 @@
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\bin\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.deps.json
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\bin\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.dll
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\bin\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.pdb
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\obj\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\obj\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\obj\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\obj\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\obj\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.dll
+E:\Shilpa\Content_Manegement\Content_Manegement.BusinessLayer\obj\Debug\netcoreapp3.1\Content_Manegement.BusinessLayer.pdb

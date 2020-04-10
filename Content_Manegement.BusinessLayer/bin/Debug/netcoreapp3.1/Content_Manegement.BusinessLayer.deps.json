@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Content_Manegement.BusinessLayer/1.0.0": {
+        "runtime": {
+          "Content_Manegement.BusinessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Content_Manegement.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
